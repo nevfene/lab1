@@ -21,7 +21,8 @@ used in this file underneath the particular question.
 
 6. Navigate back to the home folder.  Use the dedicated shortcut for
    home folder.  Hint `~`.
-
+ edit 
+ 
 7. Commit and push your changes.
 
 8. Check the file on github--do you see your edits there?
